@@ -9,5 +9,4 @@ h1.konder(3)
 
 h1.batareya(10)
 
-
 print('Hello GIT!')
